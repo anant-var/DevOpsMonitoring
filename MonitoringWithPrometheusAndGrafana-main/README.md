@@ -128,7 +128,7 @@ docker-compose up -d
 - Visit: [http://localhost:3000](http://localhost:3000)
 - Default credentials:  
   **Username:** `admin`  
-  **Password:** `admin`  
+  **Password:** `grafana`  
 - Change the password when prompted
 
 ### 2. ➕ Add Prometheus Data Source
